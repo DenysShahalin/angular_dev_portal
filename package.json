@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "dev": "ng serve",
-    "serve:build": "serve dist/jaime_api_gateway_dev_portal/browser -s -l 80"
+    "serve:build": "serve dist/jaime_api_gateway_dev_portal/browser -s -l 8080"
   },
   "packageManager": "yarn@1.22.22",
   "dependencies": {
