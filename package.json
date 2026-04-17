@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "dev": "ng serve"
+    "dev": "ng serve",
+    "serve:build": "serve dist/jaime_api_gateway_dev_portal/browser -s -l 80"
   },
   "packageManager": "yarn@1.22.22",
   "dependencies": {
@@ -25,6 +26,7 @@
     "@ngx-translate/core": "^17.0.0",
     "@ngx-translate/http-loader": "^17.0.0",
     "rxjs": "~7.8.0",
+    "serve": "^14.2.6",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
