@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "date": "2024-05-01T10:00:00Z",
+      "description": "Pro Plan - Monthly",
+      "amount": "49.00$",
+      "used": "5376",
+      "status": "Paid"
+    },
+    {
+      "date": "2024-04-01T10:00:00Z",
+      "description": "Pro Plan - Monthly",
+      "amount": "49.00$",
+      "used": "6376",
+      "status": "Paid"
+    },
+    {
+      "date": "2025-12-01T10:00:00Z",
+      "description": "Pro Plan - Year",
+      "amount": "499.00$",
+      "used": "105376",
+      "status": "Paid"
+    },
+    {
+      "date": "2025-01-01T10:00:00Z",
+      "description": "Pro Plan - Monthly",
+      "amount": "49.00$",
+      "used": "1050",
+      "status": "Paid"
+    },
+    {
+      "date": "2026-01-01T10:00:00Z",
+      "description": "Pro Plan - Year",
+      "amount": "499.00$",
+      "used": "155376",
+      "status": "Paid"
+    }
+  ],
+  "planDetails": {
+    "currentPlan": "Free Plan",
+    "unitsPerPlan": "4000",
+    "pay": "0$ / month"
+  },
+  "paymentDetails": {
+    "cardType": "Visa",
+    "cardNumber": "**** **** **** 1234",
+    "expiryDate": "12/25"
+  }
+}

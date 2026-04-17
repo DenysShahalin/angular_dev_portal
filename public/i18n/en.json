@@ -1,0 +1,61 @@
+{
+  "keys": {
+    "title": "APIs Keys",
+    "description": "Manage your API keys.",
+    "tableTitle": "API Keys",
+    "statsTitle": "Current Billing Period",
+    "tableColumns": {
+      "name": "Subscription",
+      "key": "Sector Key",
+      "product": "Product",
+      "createdAt": "Created At",
+      "lastUsedAt": "Last Used At",
+      "usage": "Usage"
+    },
+    "billing": {
+      "apiTitle": "api calls",
+      "usage": "credit usage",
+      "time": "time usage",
+      "quota": "quota status"
+    }
+  },
+  "billingPage": {
+    "title": "Billing",
+    "tableTitle": "Billing History",
+    "tableColumns": {
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "used": "Unit Used",
+      "status": "Status"
+    },
+    "planDetails": {
+      "title": "Current plan"
+    },
+    "paymentDetails": {
+      "title": "Payment details"
+    }
+  },
+  "usagePage": {
+    "title": "Usage",
+    "overviewChartTitle": "Usage Overview",
+    "planChartTitle": "API Key/Plan"
+  },
+  "sidebar": {
+    "links": {
+      "billing": "Billing",
+      "keys": "API Keys",
+      "usage": "Usage"
+    },
+    "theme": {
+      "light": "Light",
+      "dark": "Dark"
+    }
+  },
+  "controls": {
+    "account": "Account",
+    "logout": "Log Out",
+    "selectPlan": "Select Plan",
+    "update": "Update"
+  }
+}
