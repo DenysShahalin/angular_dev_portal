@@ -66,7 +66,8 @@ const COLUMNS: DataTableColumn<BillingData>[] = [
       display: block;
       padding: 2rem;
       background: var(--color-surface);
-      height: 100dvh;
+      height: fit-content;
+      min-height: 100dvh;
     }
 
     .status-badge {
